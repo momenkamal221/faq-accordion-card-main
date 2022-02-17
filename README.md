@@ -1,6 +1,6 @@
 # [Frontend Mentor - FAQ accordion card solution.](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam "challenge link")
 
-<h2 align="center">🔴<a href="https://momenkamal221.github.io/faq-accordion-card-main/">Live</a>&emsp;&emsp;☕<a href="https://github.com/momenkamal221/faq-accordion-card-main">solution</a>&emsp;&emsp;😃<a href="https://www.frontendmentor.io/solutions/social-proof-section-solution-momen-kamal-3b4ZXldJA">Post feedback</a></h2>
+<h2 align="center">🔴<a href="https://momenkamal221.github.io/faq-accordion-card-main/">Live</a>&emsp;&emsp;☕<a href="https://github.com/momenkamal221/faq-accordion-card-main">solution</a>&emsp;&emsp;😃<a href="https://www.frontendmentor.io/solutions/faq-accordion-card-challenge-solution-LEbaUfNwH">Post feedback</a></h2>
 
 # my latest challenges
 

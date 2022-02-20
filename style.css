@@ -8,7 +8,7 @@
 }
 body{
 	background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
-	min-height: max(99.8vmin,99.8vh);
+	min-height:99.8vh;
 	padding:1px;
 }
 .layout{
